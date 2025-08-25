@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m actively looking for opportunities as a Junior AI/Machine Learning Engineer<br><br>Currently studying LangChain.<br>
+I’m actively looking for opportunities as a Data Engineer<br><br>Currently studying LangChain.<br>
 
 
 ## 🌐 Socials:
